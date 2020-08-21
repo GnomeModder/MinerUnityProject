@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 380748232
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: squar
+      Dependencies: {}
+    Info_1:
+      Name: miner
+      Dependencies: {}
+    Info_2:
+      Name: saul
+      Dependencies: {}

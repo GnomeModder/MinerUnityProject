@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 968800770
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88a082fcf4672a78a27f61d88e2042b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ed2e3781ed76f3bfbe4879306ec2a78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 55bf88041d85d1248a5b0a4cbf8822e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77d80b7480da1204f83fd6f1588efa59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e74e9d7fa64fa14c9cb03850e963958, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AchievementIcons/texMinerJunkieIcon.png
+- Assets/Assets/rorMinerP.prefab
+- Assets/AchievementIcons/texMinerSecretIcon.png
+- Assets/AchievementIcons/texMinerBroughtHisOwnToolsIcon.png
+- Assets/Assets/Materials/Miner.mat
+- Assets/Assets/rorMiner1.prefab
+- Assets/Assets/Materials/MinerP.mat
+- Assets/AchievementIcons/texMinerCompactedIcon.png
+- Assets/Assets/rorMinerM.prefab
+- Assets/Assets/rorMiner2.prefab
+- Assets/AchievementIcons/texMinerDefaultIcon.png
+- Assets/Assets/Materials/MinerM.mat
+- Assets/Assets/C4.prefab
+- Assets/AchievementIcons/texMinerMasteryIcon.png
+Dependencies: []

@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2055083473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 302606504ae766809560e33ece6b7baa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d4d7724af680d2a546c2f1d94a61fc71
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b5e03b517b8b22049af8a29483e819b9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Assets/Grenade.prefab
+Dependencies: []
